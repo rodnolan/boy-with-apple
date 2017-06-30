@@ -1,4 +1,4 @@
-# boy-with-apple
+# posterific-static-images
 
 I ended up here because of this: https://developers.facebook.com/bugs/361680970914639/
 
