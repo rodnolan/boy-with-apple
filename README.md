@@ -4,4 +4,6 @@ I ended up here because of this: https://developers.facebook.com/bugs/3616809709
 
 The Messenger Platform recently stopped serving requests for static content on ngrok.io urls. Developers who were happily generating structured templates and sending image attachments from their localhost bot server via ngrok suddenly weren't so happy. This change happened about two weeks ago and the easy solution is to separate the images and host them on a separate url. Github Pages https://pages.github.com/ is a perfect solution for this use case.
 
+The images hosted here are available at https://rodnolan.github.io/boy-with-apple/
+
 P.S. The repo name is a tip of the hat to one of my favourite movies. My dog's name is Zero.
